@@ -38,8 +38,6 @@ It is just me learning FastAPI and friends, one endpoint at a time.
 ## Source
 This project follows along with a very comprehensive FastAPI course:
 
-**Learn Python API development in one of the most comprehensive courses ever on the topic**
-
 YouTube link:  
 https://www.youtube.com/watch?v=0sOvCWFmrtA&t=2081s
 
