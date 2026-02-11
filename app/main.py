@@ -81,7 +81,7 @@ def delete_posts(id: int):
                             detail=f"post with the id {id} was not found")
 
     my_posts.pop(index)
-    return Response(status_code=status.HTTP_404_NOT_FOUND)
+    return Response(status_code=status.HTTP_204_NO_CONTENT)
 
 
 @app.put("/posts/{id}")
